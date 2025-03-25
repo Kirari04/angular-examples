@@ -1,6 +1,7 @@
-# Testing
+# Angular + Tailwind + DaisyUI
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+This is an example Angular application that uses Tailwind CSS and DaisyUI for styling.
+It is being developed to get more familiar with Angular and its ecosystem.
 
 ## Development server
 
